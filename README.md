@@ -1,4 +1,4 @@
-Welcome to WebSphers, where we transform your digital dreams into reality. We specialize in providing comprehensive web services, creating bespoke websites from scratch for individuals and businesses alike. Our team of skilled professionals understands the importance of a unique web presence and strives to deliver designs that align seamlessly with your brand identity.
+   Welcome to WebSphers, where we transform your digital dreams into reality. We specialize in providing comprehensive web services, creating bespoke websites from scratch for individuals and businesses alike. Our team of skilled professionals understands the importance of a unique web presence and strives to deliver designs that align seamlessly with your brand identity.
 
 Whether you have a specific idea in mind or prefer to collaborate with us, we offer both customized and pre-designed websites. We pride ourselves on offering competitive pricing, with flexible payment plans available for both permanent and monthly arrangements. Each package includes two websites - an admin site for managing your site and a main site for showcasing your content.
 
